@@ -9,11 +9,11 @@
 
  - ### Copy & Run the Commands in Cloud Shell Terminal :
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Cloud-Armor-Preconfigured-WAF-Rules-GSP879/refs/heads/main/qwiklab_explorers_gsp879.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Get-Started-with-Sensitive-Data-Protection-Challenge-Lab-ARC116-Updated-May/refs/heads/main/qwiklab_explorers_arc116.sh
 
-sudo chmod +x qwiklab_explorers_gsp879.sh
+sudo chmod +x qwiklab_explorers_arc116.sh
 
-./qwiklab_explorers_gsp879.sh
+./qwiklab_explorers_arc116.sh
 ```
 ---
 
